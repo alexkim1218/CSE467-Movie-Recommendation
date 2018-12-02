@@ -1,0 +1,501 @@
+absent_minded_professor :  Professor Philip Brainard movie Flubber    Robin Williams 
+absent_minded_professor :  Professor Keenbean movie Richie Rich    Michael McShane 
+absent_minded_professor :  Dr. Reinhardt Lane movie The Shadow    Ian McKellen 
+absent_minded_professor :  Dr. Harold Medford movie Them!   Edmund Gwenn 
+absent_minded_professor :  Daniel Jackson movie Stargate    James Spader 
+adventurer_archaeologist :  Indiana Jones movie Indiana Jones and the Kingdom of the Crystal Skull    Harrison Ford 
+adventurer_archaeologist :  Indiana Jones movie Indiana Jones and the Raers of the Lost Ark    Harrison Ford 
+adventurer_archaeologist :  Indiana Jones movie Indiana Jones and the Temple of Doom    Harrison Ford 
+adventurer_archaeologist :  Evelyn Carnahan-O'Connell movie The Mummy    Rachel Weisz 
+arrogant_kungfu_guy :  Han movie Enter the Dragon    Shih Kien 
+arrogant_kungfu_guy :  Johnny Lawrence movie The Karate K    William Zabka 
+arrogant_kungfu_guy :  Jen Yu movie Crouching Tiger, Hden Dragon    Zhang Ziyi 
+arrogant_kungfu_guy :  Pai Mei movie Kill Bill Volume 2    Chia Hui Liu 
+arrogant_kungfu_guy :  Apollo Creed movie Rocky    Carl Weathers 
+arrogant_kungfu_guy :  Clubber Lang movie Rocky III    Mr. T 
+arrogant_kungfu_guy :  Storm Shadow movie G.I. Joe: The Rise of Cobra    Lee Byung-Hun 
+arrogant_kungfu_guy :  Kurgan movie Highlander    Clancy Brown 
+arrogant_kungfu_guy :  Anakin Skywalker movie Star Wars Episode III: Revenge of the Sith    Hayden Christensen 
+big_man_on_campus :  Guy Perkins movie Never Been Kissed    Jeremy Jordan 
+big_man_on_campus :  John Tucker movie John Tucker Must Die   Jesse Metcalfe 
+big_man_on_campus :  Woody Deane movie It's a Boy Girl Thing    Kevin Zegers 
+big_man_on_campus :  Van Wilder movie National Lampoon's Van Wilder    Ryan Reynolds 
+big_man_on_campus :  Paul Metzler movie Election    Chris Klein 
+big_man_on_campus :  Troy Bolton movie High School Musical    Zac Efron 
+big_man_on_campus :  Mike Dexter movie Can't Hardly Wait    Peter Facinelli 
+bounty_hunter :  Man with No Name movie For a Few Dollars More    Clint Eastwood 
+bounty_hunter :  Josey Wales movie The Outlaw Josey Wales    Clint Eastwood 
+bounty_hunter :  Jellon Lamb movie The Proposition   John Hurt 
+bounty_hunter :  Beck movie The Rundown    The Rock 
+bounty_hunter :  Rick Deckard movie Blade Runner    Harrison Ford 
+bounty_hunter :  Leonard Smalls movie Raising Arizona    Randall \"Tex\" Cobb 
+bounty_hunter :  Jack Walsh movie Mnight Run    Robert De Niro 
+bounty_hunter :  Milo Boyd movie The Bounty Hunter    Gerard Butler 
+bounty_hunter :  Toombs movie The Chronicles of Rdick    Nick Chinlund 
+bounty_hunter :  Nick Randall movie Wanted: Dead or Alive    Rutger Hauer 
+brainless_beauty :  Gemma Honeycutt movie Fool's Gold    Alexis Dziena 
+brainless_beauty :  Matt Mateo movie The Opposite of Sex    Ivan Sergei 
+brainless_beauty :  Paul Metzler movie Election    Chris Klein 
+brainless_beauty :  Shelley Darlingson movie The House Bunny    Anna Faris 
+brainless_beauty :  Brace Channing movie My Favorite Martian    Elizabeth Hurley 
+brainless_beauty :  Mia movie Stan Helsing    Desi Lydic 
+brainless_beauty :  Marcia Brady movie The Brady Bunch Movie   Christine Taylor 
+brainless_beauty :  Chris movie Roxanne    Rick Rossovich 
+brainless_beauty :  Buffy Summers movie Buffy the Vampire Slayer    Kristy Swanson 
+brainless_beauty :  Brad movie Extract    Dustin Milligan 
+brainless_beauty :  Jack Bartlett movie Sugar & Spice    James Marsden 
+brainless_beauty :  Maggie Feller movie In Her Shoes    Cameron Diaz 
+broken_bird :  Chelsea Deardon movie Legal Eagles   Daryl Hannah 
+broken_bird :  Mad Hatter movie Alice in Wonderland    Johnny Depp 
+broken_bird :  Nicole Oakley movie Crazy/Beautiful    Kirsten Dunst 
+broken_bird :  Annie Newton movie The Invisible    Margarita Levieva 
+broken_bird :  Nina Sayers movie Black Swan    Natalie Portman 
+bromantic_foil :  Randal Graves movie Clerks.    Jeff Anderson 
+bromantic_foil :  Randal Graves movie Clerks II   Jeff Anderson 
+bromantic_foil :  Brodie Bruce movie Mallrats    Jason Lee 
+bromantic_foil :  Banky Edwards movie Chasing Amy    Jason Lee 
+bromantic_foil :  Ed movie Shaun of the Dead    Nick Frost 
+bruiser_with_a_soft_center :  Hellboy movie Hellboy: Blood and Iron    Ron Perlman 
+bruiser_with_a_soft_center :  Tron movie Tron    Bruce Boxleitner 
+bruiser_with_a_soft_center :  James Bond movie Casino Royale    Daniel Craig 
+bully :  Biff Tannen movie Back to the Future    Thomas F. Wilson 
+bully :  Scut Farkus movie A Christmas Story    Zack Ward 
+bully :  Vanessa movie The Grudge 2    Teresa Palmer 
+byronic_hero :  Jake LaMotta movie Raging Bull   Robert De Niro 
+byronic_hero :  James Bond movie Casino Royale    Daniel Craig 
+byronic_hero :  Travis Bickle movie Taxi Driver    Robert De Niro 
+byronic_hero :  Anakin Skywalker movie Star Wars Episode III: Revenge of the Sith    Hayden Christensen 
+byronic_hero :  Martin Q. Blank movie Grosse Pointe Blank    John Cusack 
+byronic_hero :  Brand Hauser movie War Inc.    John Cusack 
+byronic_hero :  Cobb movie Inception   Leonardo DiCaprio 
+byronic_hero :  Achilles movie Troy    Brad Pitt 
+byronic_hero :  Britt Re movie The Green Hornet   Seth Rogen 
+byronic_hero :  Donnie Darko movie Donnie Darko    Jake Gyllenhaal 
+byronic_hero :  Captain Jack Sparrow movie Pirates of the Caribbean: Dead Man's Chest    Johnny Depp 
+byronic_hero :  John Wilmot, 2nd Earl of Rochester movie The Libertine    Johnny Depp 
+byronic_hero :  Robert Angier movie The Prestige    Hugh Jackman 
+byronic_hero :  Tony Stark movie Iron Man   Robert Downey Jr. 
+byronic_hero :  Loki movie Thor    Tom Hdleston 
+byronic_hero :  Lenny Nero movie Strange Days   Ralph Fiennes 
+byronic_hero :  Bill 'The Butcher' Cutting movie Gangs of New York    Daniel Day-Lewis 
+casanova :  Giacomo Casanova movie Casanova    Heath Ledger 
+casanova :  Telly movie Ks   Leo Fitzpatrick 
+casanova :  Tony Stark movie Iron Man   Robert Downey Jr. 
+casanova :  Dorian Gray movie The League of Extraordinary Gentlemen    Stuart Townsend 
+casanova :  John Wilmot, 2nd Earl of Rochester movie The Libertine    Johnny Depp 
+casanova :  Timothy movie The Long Kiss Goodnight    Craig Bierko 
+casanova :  Johnny Wickham movie Bre and Prejudice   Daniel Gillies 
+chanteuse :  Jessica Rabbit movie Who Framed Roger Rabbit    Kathleen Turner 
+chanteuse :  Tina Carlyle movie The Mask    Cameron Diaz 
+chanteuse :  Susie Diamond movie The Fabulous Baker Boys    Michelle Pfeiffer 
+chanteuse :  Sugar Kane Kowalczyk movie Some Like It Hot    Marilyn Monroe 
+chanteuse :  Dorothy Vallens movie Blue Velvet    Isabella Rossellini 
+chanteuse :  Ellen Aim movie Streets of Fire    Diane Lane 
+charmer :  James Bond movie Casino Royale    Daniel Craig 
+charmer :  Han Solo movie Star Wars Episode IV: A New Hope   Harrison Ford 
+charmer :  Captain Jack Sparrow movie Pirates of the Caribbean: Dead Man's Chest    Johnny Depp 
+charmer :  Frank Abagnale Jr. movie Catch Me If You Can    Leonardo DiCaprio 
+charmer :  Harold Hill movie The Music Man    Matthew Broderick 
+charmer :  Flynn Rer movie Tangled    Zachary Levi 
+charmer :  Hannibal Lecter movie The Silence of the Lambs    Anthony Hopkins 
+child_prodigy :  Anakin Skywalker movie Star Wars Episode I: The Phantom Menace    Jake Lloyd 
+child_prodigy :  Chris Knight movie Real Genius    Val Kilmer 
+classy_cat_burglar :  Danielle Foussard movie To Catch a Thief    Brigitte Auber 
+consummate_professional :  Frank Martin movie The Transporter    Jason Statham 
+consummate_professional :  Agent Smith movie The Matrix    Hugo Weaving 
+consummate_professional :  The Professor movie The Bourne entity    Clive Owen 
+consummate_professional :  Sam 'Ace' Rothstein movie Casino    Robert De Niro 
+corrupt_corporate_executive :  Dick Jones movie RoboCop    Ronny Cox 
+corrupt_corporate_executive :  Cutler Beckett movie Pirates of the Caribbean: Dead Man's Chest    Tom Hollander 
+corrupt_corporate_executive :  Cutler Beckett movie Pirates of the Caribbean: At World's End    Tom Hollander 
+corrupt_corporate_executive :  Max Zorin movie A View to a Kill    Christopher Walken 
+corrupt_corporate_executive :  Carter Burke movie Aliens    Paul Reiser 
+corrupt_corporate_executive :  Noah Cross movie Chinatown    John Huston 
+corrupt_corporate_executive :  Doctor Doom movie Fantastic Four    Julian McMahon 
+corrupt_corporate_executive :  Kingpin movie Daredevil    Michael Clarke Duncan 
+corrupt_corporate_executive :  Judge Doom movie Who Framed Roger Rabbit   Christopher Lloyd 
+corrupt_corporate_executive :  Conal Cochran movie Halloween III: Season of the Witch    Dan O'Herlihy 
+corrupt_corporate_executive :  Mayor Augustus Maywho movie How the Grinch Stole Christmas!    Jeffrey Tambor 
+corrupt_corporate_executive :  Henry F. Potter movie It's a Wonderful Life   Lionel Barrymore 
+corrupt_corporate_executive :  Royalton movie Speed Racer    Roger Allam 
+corrupt_corporate_executive :  B.Z. movie Santa Claus: The Movie    John Lithgow 
+corrupt_corporate_executive :  Les Grossman movie Tropic Thunder    Tom Cruise 
+corrupt_corporate_executive :  James McCullen - 1641 movie G.I. Joe: The Rise of Cobra    Dav Murray 
+corrupt_corporate_executive :  Ed Dillinger movie Tron    Dav Warner 
+corrupt_corporate_executive :  Ian Hawke movie Alvin and the Chipmunks    Dav Cross 
+corrupt_corporate_executive :  Jack Bennett movie Edge of Darkness    Danny Huston 
+corrupt_corporate_executive :  Charles Travis movie Congo    Bruce Campbell 
+corrupt_corporate_executive :  Gary Winston movie Antitrust   Tim Robbins 
+corrupt_corporate_executive :  Dietrich Banning movie The Tuxedo    Ritchie Coster 
+corrupt_corporate_executive :  Ratchet movie Robots    Greg Kinnear 
+coward :  Beni Gabor movie The Mummy    Kevin J. O'Connor 
+coward :  Lt. Roget / Singing man movie Paths of Glory   Wayne Morris 
+coward :  Captain Jack Sparrow movie Pirates of the Caribbean: Dead Man's Chest    Johnny Depp 
+coward :  Carter Burke movie Aliens    Paul Reiser 
+coward :  Ike Clanton movie Tombstone    Stephen Lang 
+coward :  Cpl. Timothy P. Upham movie Saving Private Ryan    Jeremy Davies 
+crazy_jealous_guy :  Jake LaMotta movie Raging Bull   Robert De Niro 
+crazy_jealous_guy :  Sir Alfred De Carter movie Unfaithfully Yours    Rex Harrison 
+crazy_jealous_guy :  Heathcliff movie Wuthering Heights    Laurence Olivier 
+crazy_jealous_guy :  Alisdair Stewart movie The Piano    Sam Neill 
+crazy_jealous_guy :  Dr. Stephen Fleming movie Damage    Jeremy Irons 
+crazy_jealous_guy :  Otto movie A Fish Called Wanda    Kevin Kline 
+crazy_jealous_guy :  Frank N. Furter movie The Rocky Horror Picture Show   Tim Curry 
+crazy_jealous_guy :  Dav McCall movie Fear   Mark Wahlberg 
+crazy_jealous_guy :  Bud White movie L.A. Confential   Russell Crowe 
+crazy_jealous_guy :  Tony Montana movie Scarface  Al Pacino 
+crazy_jealous_guy :  Martin Burney movie Sleeping with the Enemy    Patrick Bergin 
+crazy_jealous_guy :  Sam 'Ace' Rothstein movie Casino    Robert De Niro 
+crazy_jealous_guy :  Tommy DeVito movie Goodfellas    Joe Pesci 
+crazy_jealous_guy :  John Lotter movie Boys Don't Cry    Peter Sarsgaard 
+crazy_jealous_guy :  Jake McKenna movie U Turn    Nick Nolte 
+crazy_jealous_guy :  Duke of Monroth movie Moulin Rouge!    Richard Roxburgh 
+crazy_jealous_guy :  Bill movie Kill Bill Volume 1   Dav Carradine 
+crazy_jealous_guy :  Bobby Tennison movie No One Would Tell    Fred Savage 
+crazy_jealous_guy :  Johnny Farrell movie Gilda    Glenn Ford 
+crazy_jealous_guy :  Takeo movie The Grudge    Takashi Matsuyama 
+crazy_jealous_guy :  Guy movie Swimming with Sharks   Frank Whaley 
+crazy_jealous_guy :  Blue movie Sucker Punch   Oscar Isaac 
+crazy_jealous_guy :  Tony Wendice movie Dial M for Murder    Ray Milland 
+crazy_jealous_guy :  Steven Taylor movie A Perfect Murder    Michael Douglas 
+crazy_jealous_guy :  Geoffrey Clifton movie The English Patient   Colin Firth 
+crazy_survivalist :  Harlan Ogilvy movie War of the Worlds    Tim Robbins 
+crazy_survivalist :  Eli movie The Book of Eli    Denzel Washington 
+crazy_survivalist :  Marvin Boggs movie Red    John Malkovich 
+cultured_badass :  James Bond movie Casino Royale    Daniel Craig 
+cultured_badass :  Dorian Gray movie The League of Extraordinary Gentlemen    Stuart Townsend 
+cultured_badass :  Everett Hitch movie Appaloosa    Viggo Mortensen 
+cultured_badass :  Leopold movie Kate & Leopold   Hugh Jackman 
+cultured_badass :  Hannibal Lecter movie The Silence of the Lambs    Anthony Hopkins 
+cultured_badass :  Ghost Dog movie Ghost Dog: The Way of the Samurai    Forest Whitaker 
+cultured_badass :  Dupont movie Equilibrium    Angus Macfadyen 
+cultured_badass :  Arthur Burns movie The Proposition    Danny Huston 
+dean_bitterman :  Richard Vernon movie The Breakfast Club    Paul Gleason 
+dean_bitterman :  Ed Rooney movie Ferris Bueller's Day Off    Jeffrey Jones 
+dean_bitterman :  Mr. Nolan movie Dead Poets Society    Norman Lloyd 
+dean_bitterman :  Dean Richmond movie The Nutty Professor    Larry Miller 
+dirty_cop :  Alonzo movie Training Day    Denzel Washington 
+dirty_cop :  Dennis Peck movie Internal Affairs    Richard Gere 
+dirty_cop :  Colin Sullivan movie The Departed    Matt Damon 
+dirty_cop :  Police Captain Hank Quinlan movie Touch of Evil    Orson Welles 
+dirty_cop :  Rooster movie Righteous Kill    Al Pacino 
+dirty_cop :  Abel Turner movie Lakeview Terrace    Samuel L. Jackson 
+dirty_cop :  The Lieutenant movie Bad Lieutenant    Harvey Keitel 
+ditz :  Cher Horowitz movie Clueless    Alicia Silverstone 
+ditz :  Mr. Bean movie Mr. Bean's Holay    Rowan Atkinson 
+ditz :  Arthur Bach movie Arthur    Russell Brand 
+ditz :  Nick movie 30 Minutes or Less    Jesse Eisenberg 
+ditz :  Henry Roth movie 50 First Dates    Adam Sandler 
+ditz :  Michael Newman movie Click    Adam Sandler 
+ditz :  Chuck Levine movie I Now Pronounce You Chuck and Larry _  Adam Sandler 
+doormat :  George McFly movie Back to the Future    Crispin Glover 
+doormat :  Harry Dunne movie Dumb & Dumber    Jeff Daniels 
+doormat :  Belle movie Beauty and the Beast: The Enchanted Christmas    Paige O'Hara 
+doormat :  Stu Price movie The Hangover   Ed Helms 
+drill_sargeant_nasty :  Gny. Sgt. Hartman movie Full Metal Jacket    R. Lee Ermey 
+drill_sargeant_nasty :  Master Chief John James Urgayle movie G.I. Jane    Viggo Mortensen 
+drill_sargeant_nasty :  Sgt. Hulka movie Stripes    Warren Oates 
+drill_sargeant_nasty :  Sergeant Thomas Highway movie Heartbreak Rge    Clint Eastwood 
+drill_sargeant_nasty :  Staff Sergeant Robert Barnes movie Platoon    Tom Berenger 
+drill_sargeant_nasty :  Maj. John Reisman movie The Dirty Dozen: The Next Mission    Lee Marvin 
+dumb_blonde :  Kitty Packard movie Dinner at Eight    Jean Harlow 
+dumb_blonde :  Cindy Campbell movie Scary Movie 4   Anna Faris 
+dumb_blonde :  Cindy Campbell movie Scary Movie 3    Anna Faris 
+dumb_blonde :  Brandi movie Observe and Report    Anna Faris 
+dumb_blonde :  Pola Debevoise movie How to Marry a Millionaire    Marilyn Monroe 
+dumb_blonde :  Romy White movie Romy and Michele's High School Reunion    Mira Sorvino 
+dumb_blonde :  Michele Weinberger movie Romy and Michele's High School Reunion    Lisa Kudrow 
+dumb_blonde :  Suzanne Stone Maretto movie To Die For    Nicole Kman 
+dumb_blonde :  Rocky Horror - A Creation movie The Rocky Horror Picture Show    Peter Hinwood 
+dumb_blonde :  Mia movie Stan Helsing    Desi Lydic 
+dumb_blonde :  Lina Lamont movie Singin' in the Rain    Jean Hagen 
+dumb_muscle :  Lennie Pike movie It's a Mad, Mad, Mad, Mad World    Jonathan Winters 
+dumb_muscle :  Mongo movie Blazing Saddles    Alex Karras 
+dumb_muscle :  Fezzik movie The Princess Bre    Andr\u00e9 the Giant 
+dumb_muscle :  Karl Childers movie Sling Blade    Billy Bob Thornton 
+eccentric_mentor :  Aughra movie The Dark Crystal    Billie Whitelaw 
+eccentric_mentor :  Mr. Kesuke Miyagi movie The Karate K    Pat Morita 
+eccentric_mentor :  Yoda movie Star Wars Episode V: The Empire Strikes Back    Frank Oz 
+eccentric_mentor :  Gandalf movie The Lord of the Rings: The Fellowship of the Ring    Ian McKellen 
+eccentric_mentor :  Fin Raziel movie Willow    Patricia Hayes 
+egomaniac_hunter :  Clayton movie Tarzan    Brian Blessed 
+egomaniac_hunter :  Gaston movie Beauty and the Beast    Richard White 
+egomaniac_hunter :  Charles Muntz movie Up   Christopher Plummer 
+egomaniac_hunter :  John Wilson movie White Hunter, Black Heart    Clint Eastwood 
+egomaniac_hunter :  Victor Quartermaine movie Wallace & Gromit: The Curse of the Were-Rabbit    Ralph Fiennes 
+egomaniac_hunter :  The Predator movie Predator 2    Kevin Peter Hall 
+egomaniac_hunter :  The Predator movie Predator    Peter Cullen 
+evil_prince :  Prince Yu movie Curse of the Golden Flower    Junjie Qin 
+evil_prince :  Crown Prince Leopold movie The Illusionist   Rufus Sewell 
+evil_prince :  Commodus movie Gladiator    Joaquin Phoenix 
+evil_prince :  Lord Nelson Rathbone movie Shanghai Knights    Aan Gillen 
+evil_prince :  Prince Nuada movie Hellboy 2: The Golden Army    Luke Goss 
+evil_prince :  Nizam movie Prince of Persia: The Sands of Time    Ben Kingsley 
+evil_prince :  Prince Otwani movie Sheena    Trevor Thomas 
+evil_prince :  Prince Humperdinck movie The Princess Bre    Chris Sarandon 
+fastest_gun_in_the_west :  Jim movie Blazing Saddles    Gene Wilder 
+fastest_gun_in_the_west :  Bret Maverick movie Maverick    Mel Gibson 
+fastest_gun_in_the_west :  Ned Nederlander movie \u00a1Three Amigos!    Martin Short 
+fastest_gun_in_the_west :  Harmonica movie Once Upon a Time in the West    Charles Bronson 
+fastest_gun_in_the_west :  Sheriff Woody movie Toy Story    Tom Hanks 
+fastest_gun_in_the_west :  Ben Wade movie 3:10 to Yuma    Russell Crowe 
+fastest_gun_in_the_west :  RoboCop movie RoboCop    Peter Weller 
+father_to_his_men :  Capt. Mikhail Polenin movie K-19: The Wowmaker   Liam Neeson 
+father_to_his_men :  Capt. Nathan Cutting Brittles movie She Wore a Yellow Ribbon    John Wayne 
+father_to_his_men :  Maximus Decimus Merius movie Gladiator   Russell Crowe 
+father_to_his_men :  Jack Aubrey movie Master and Commander: The Far Se of the World    Russell Crowe 
+father_to_his_men :  Captain Benjamin L. Willard movie Apocalypse Now    Martin Sheen 
+father_to_his_men :  Captain of the 'Weser' movie Das Boot    G\u00fcnter Lamprecht 
+father_to_his_men :  Captain Nemo movie The League of Extraordinary Gentlemen    Naseeruddin Shah 
+father_to_his_men :  Capt. James 'Bugger' Staros movie The Thin Red Line    Elias Koteas 
+father_to_his_men :  Gen. Robert E. Lee movie Gettysburg    Martin Sheen 
+father_to_his_men :  General Kuribayashi movie Letters from Iwo Jima    Ken Watanabe 
+father_to_his_men :  Lt. Commander Ron Hunter movie Crimson Te    Denzel Washington 
+father_to_his_men :  Christopher Pike movie Star Trek    Bruce Greenwood 
+father_to_his_men :  Zordon movie Mighty Morphin' Power Rangers: The Movie    Nicholas Bell 
+father_to_his_men :  Wolfstan movie Black Death    John Lynch 
+father_to_his_men :  Major Henry West movie 28 Days Later    Christopher Eccleston 
+final_girl :  Nancy Thompson movie A Nightmare on Elm Street    Heather Langenkamp 
+final_girl :  Sney Prescott movie Scream   Neve Campbell 
+final_girl :  Ellen Ripley movie Alien    Sigourney Weaver 
+final_girl :  Sarah Connor movie The Terminator   Linda Hamilton 
+final_girl :  Laurie Strode movie Halloween    Jamie Lee Curtis 
+final_girl :  Whitney Miller movie Fray the 13th    Amanda Righetti 
+gadgeteer_genius :  Tony Stark movie Iron Man   Robert Downey Jr. 
+gadgeteer_genius :  Dr. Loveless movie Wild Wild West    Kenneth Branagh 
+gadgeteer_genius :  Artemus Gordon movie Wild Wild West    Kevin Kline 
+gadgeteer_genius :  Lewis movie Meet the Robinsons   Tom Selleck 
+gadgeteer_genius :  Anakin Skywalker movie Star Wars Episode I: The Phantom Menace    Jake Lloyd 
+gadgeteer_genius :  Ling Ling Fat movie Forbden City Cop    Stephen Chow 
+gadgeteer_genius :  Lucius Fox movie The Dark Knight    Morgan Freeman 
+gentleman_thief :  John Robie movie To Catch a Thief   Cary Grant 
+gentleman_thief :  Sir Charles Lytton movie The Pink Panther    Dav Niven 
+gentleman_thief :  Neil McCauley movie Heat    Robert De Niro 
+gentleman_thief :  Rodney Skinner movie The League of Extraordinary Gentlemen    Tony Curran 
+gentleman_thief :  Cobb movie Inception   Leonardo DiCaprio 
+gentleman_thief :  Nick Wells movie The Score    Robert De Niro 
+granola_person :  Beth movie John Tucker Must Die   Sophia Bush 
+granola_person :  Jasper Palmer movie Children of Men    Michael Caine 
+granola_person :  Max Dennison movie Hocus Pocus    Omri Katz 
+granola_person :  Lotte Schwartz movie Being John Malkovich    Cameron Diaz 
+granola_person :  Ana Pascal movie Stranger Than Fiction   Maggie Gyllenhaal 
+granola_person :  Ashley movie Orange County    Schuyler Fisk 
+granola_person :  Sheldon Mopes movie Death to Smoochy    Edward Norton 
+granola_person :  Bill Django movie The Men Who Stare at Goats    Jeff Brges 
+grumpy_old_man :  Max Goldman movie Grumpy Old Men    Walter Matthau 
+grumpy_old_man :  Walt Kowalski movie Gran Torino    Clint Eastwood 
+grumpy_old_man :  Carl Fredricksen movie Up   Ed Asner 
+grumpy_old_man :  Howard Beale movie Network    Peter Finch 
+grumpy_old_man :  Judge Elihu Smails movie Caddyshack   Ted Knight 
+hardboiled_detective :  Sam Spade movie The Maltese Falcon    Humphrey Bogart 
+hardboiled_detective :  Philip Marlowe movie The Big Sleep    Humphrey Bogart 
+hardboiled_detective :  Dist. Atty. Martin Ferguson movie The Enforcer   Humphrey Bogart 
+hardboiled_detective :  Capt. 'Rip' Murdock movie Dead Reckoning    Humphrey Bogart 
+hardboiled_detective :  Jeff Bailey movie Out of the Past    Robert Mitchum 
+hardboiled_detective :  J. J. Gittes movie Chinatown    Jack Nicholson 
+hardboiled_detective :  Eddie Valiant movie Who Framed Roger Rabbit    Bob Hoskins 
+hardboiled_detective :  Rick Deckard movie Blade Runner    Harrison Ford 
+heartbroken_badass :  Mina Harker movie The League of Extraordinary Gentlemen    Peta Wilson 
+heartbroken_badass :  James Bond movie Quantum of Solace   Daniel Craig 
+heartbroken_badass :  Max Rockatansky movie Mad Max    Mel Gibson 
+heartbroken_badass :  Josey Wales movie The Outlaw Josey Wales    Clint Eastwood 
+heartbroken_badass :  Tallahassee movie Zombieland    Woody Harrelson 
+heartbroken_badass :  Bruce Wayne movie The Dark Knight Rises    Christian Bale 
+heartbroken_badass :  Bill movie Kill Bill Volume 1   Dav Carradine 
+henpecked_husband :  Norbit movie Norbit    Eddie Murphy 
+henpecked_husband :  Bobby Davis movie Wild Hogs    Martin Lawrence 
+henpecked_husband :  Dr. Ernest Menville movie Death Becomes Her   Bruce Willis 
+henpecked_husband :  Dr. Howard Bannister movie What's Up, Doc?   Ryan O'Neal 
+henpecked_husband :  Ned Schneebly movie School of Rock    Mike White 
+hitman_with_a_heart :  Julian Noble movie The Matador    Pierce Brosnan 
+hitman_with_a_heart :  Ghost Dog movie Ghost Dog: The Way of the Samurai    Forest Whitaker 
+hitman_with_a_heart :  Jimmy 'The Tulip' Tudeski movie The Whole Nine Yards    Bruce Willis 
+hitman_with_a_heart :  Mr. Goodkat movie Lucky Number Slevin    Bruce Willis 
+hitman_with_a_heart :  John Lee movie The Replacement Killers    Chow Yun-Fat 
+hitman_with_a_heart :  Il Duce movie The Boondock Saints    Billy Connolly 
+hitman_with_a_heart :  Jason Bourne movie The Bourne entity    Matt Damon 
+hitman_with_a_heart :  Frank Falenczyk movie You Kill Me    Ben Kingsley 
+hitman_with_a_heart :  Wesley Gibson movie Wanted   James McAvoy 
+hitman_with_a_heart :  Vincent movie Collateral    Tom Cruise 
+jerk_jock :  Austin movie Not Another Teen Movie    Eric Christian Olsen 
+jerk_jock :  Johnny Lawrence movie The Karate K    William Zabka 
+jerk_jock :  Gaston movie Beauty and the Beast    Richard White 
+jerk_jock :  Jim movie Edward Scissorhands    Anthony Michael Hall 
+jerk_jock :  Biff Tannen movie Back to the Future    Thomas F. Wilson 
+jerk_jock :  Kurt Kelly movie Heathers    Lance Fenton 
+jerk_jock :  Bo movie Cursed    Milo Ventimiglia 
+jerk_jock :  Mike Dexter movie Can't Hardly Wait    Peter Facinelli 
+jerk_jock :  Garth movie Alpha and Omega    Chris Carmack 
+junkie_prophet :  Agatha movie Minority Report    Samantha Morton 
+junkie_prophet :  Cassie Holmes movie Push    Dakota Fanning 
+klutz :  Mia Thermopolis movie The Princess Diaries    Anne Hathaway 
+klutz :  Seymour Krelborn movie Little Shop of Horrors    Rick Moranis 
+loser_protagonist :  Paul Blart movie Paul Blart: Mall Cop    Kevin James 
+loser_protagonist :  Sney Young movie How to Lose Friends & Alienate People   Simon Pegg 
+loser_protagonist :  Dennis movie Run, Fat Boy, Run    Simon Pegg 
+loser_protagonist :  Mark Bellison movie The Invention of Lying    Ricky Gervais 
+loser_protagonist :  Dewey Finn movie School of Rock    Jack Black 
+loser_protagonist :  Rob Gordon movie High Felity   John Cusack 
+loveable_rogue :  Han Solo movie Star Wars Episode IV: A New Hope   Harrison Ford 
+loveable_rogue :  Captain Jack Sparrow movie Pirates of the Caribbean: Dead Man's Chest    Johnny Depp 
+loveable_rogue :  Peter Blood movie Captain Blood   Errol Flynn 
+loveable_rogue :  Capt. Louis Renault movie Casablanca    Claude Rains 
+loveable_rogue :  Abu movie The Thief of Bagdad    Sabu Dastagir 
+loveable_rogue :  Eames movie Inception    Tom Hardy 
+loveable_rogue :  Rodney Skinner movie The League of Extraordinary Gentlemen    Tony Curran 
+loveable_rogue :  Harold Hill movie The Music Man    Matthew Broderick 
+loveable_rogue :  Wolverine movie X-Men    Hugh Jackman 
+master_swordsman :  Qui-Gon Jinn movie Star Wars Episode I: The Phantom Menace    Liam Neeson 
+master_swordsman :  Obi-Wan Kenobi movie Star Wars Episode I: The Phantom Menace    Ewan McGregor 
+master_swordsman :  Darth Vader movie Star Wars Episode V: The Empire Strikes Back    James Earl Jones 
+master_swordsman :  Inigo Montoya movie The Princess Bre    Mandy Patinkin 
+master_swordsman :  Bill movie Kill Bill Volume 1   Dav Carradine 
+master_swordsman :  Archibald Cunningham movie Rob Roy    Tim Roth 
+master_swordsman :  Madmartigan movie Willow    Val Kilmer 
+master_swordsman :  Nameless movie Hero    Jet Li 
+master_swordsman :  Broken Sword movie Hero    Tony Leung Chiu Wai 
+master_swordsman :  Aragorn movie The Lord of the Rings: The Return of the King    Viggo Mortensen 
+master_swordsman :  Blade movie Blade    Wesley Snipes 
+master_swordsman :  He-Man movie Masters of the Universe    Dolph Lundgren 
+morally_bankrupt_banker :  Mr. Perkins movie Despicable Me    Will Arnett 
+morally_bankrupt_banker :  Patrick Bateman movie American Psycho    Christian Bale 
+morally_bankrupt_banker :  Henry F. Potter movie It's a Wonderful Life   Lionel Barrymore 
+officer_and_a_gentleman :  Norrington movie Pirates of the Caribbean: Dead Man's Chest    Jack Davenport 
+officer_and_a_gentleman :  Col. Robert Gould Shaw movie Glory   Matthew Broderick 
+officer_and_a_gentleman :  Jack Aubrey movie Master and Commander: The Far Se of the World    Russell Crowe 
+officer_and_a_gentleman :  Captain Nicholls movie War Horse    Tom Hdleston 
+ophelia :  Elisabeth Burrows movie Don't Say a Word    Brittany Murphy 
+ophelia :  Crazy Cora movie Quigley Down Under    Laura San Giacomo 
+ophelia :  Justine movie Melancholia    Kirsten Dunst 
+ophelia :  Gina Montana movie Scarface    Mary Elizabeth Mastrantonio 
+ophelia :  Jane Olsen movie The Cabinet of Dr. Caligari    Lil Dagover 
+playful_hacker :  Kevin Flynn movie Tron    Jeff Brges 
+playful_hacker :  Sam Flynn movie Tron: Legacy    Garrett Hedlund 
+playful_hacker :  Riley Poole movie National Treasure    Justin Bartha 
+playful_hacker :  Dav Lightman movie WarGames    Matthew Broderick 
+playful_hacker :  Mr. Universe movie Serenity    Dav Krumholtz 
+prima_donna :  Lina Lamont movie Singin' in the Rain    Jean Hagen 
+prima_donna :  Sharpay Evans movie High School Musical    Ashley Tisdale 
+prima_donna :  Sharpay Evans movie High School Musical 2    Ashley Tisdale 
+prima_donna :  Sharpay Evans movie High School Musical 3: Senior Year    Ashley Tisdale 
+prima_donna :  Margo Channing movie All About Eve    Bette Davis 
+prima_donna :  Norma Desmond movie Sunset Boulevard    Gloria Swanson 
+psycho_for_hire :  Gaear Grimsrud movie Fargo    Peter Stormare 
+psycho_for_hire :  Harlen Maguire movie Road to Perdition    Jude Law 
+psycho_for_hire :  Mr. Blonde movie Reservoir Dogs    Michael Madsen 
+psycho_for_hire :  Red Grant movie From Russia with Love    Robert Shaw 
+psycho_for_hire :  Anton Chigurh movie No Country for Old Men    Javier Bardem 
+psycho_for_hire :  Jackson Rippner movie Red Eye    Cillian Murphy 
+psycho_for_hire :  Staff Sergeant Robert Barnes movie Platoon    Tom Berenger 
+psycho_for_hire :  George Higgins movie 8mm    Chris Bauer 
+psycho_for_hire :  Major Arnold Toht movie Indiana Jones and the Raers of the Lost Ark    Ronald Lacey 
+psycho_for_hire :  Mortimer Brewster movie Arsenic and Old Lace    Cary Grant 
+psycho_for_hire :  Col. Paul Tanner movie My Fellow Americans    Everett McGill 
+psycho_for_hire :  Bullet Tooth Tony movie Snatch    Vinnie Jones 
+psycho_for_hire :  Waingro movie Heat    Kevin Gage 
+psycho_for_hire :  Jack Wilson movie Shane    Jack Palance 
+psycho_for_hire :  Isaacs movie Hanna    Tom Hollander 
+psycho_for_hire :  Frank movie Once Upon a Time in the West    Henry Fonda 
+pupil_turned_to_evil :  Count Dooku movie Star Wars Episode II: Attack of the Clones   Christopher Lee 
+pupil_turned_to_evil :  Aaron Hallam movie The Hunted    Benicio del Toro 
+retired_outlaw :  William Munny movie Unforgiven    Clint Eastwood 
+retired_outlaw :  Ned Logan movie Unforgiven    Morgan Freeman 
+retired_outlaw :  Butch Cassy movie Butch Cassy and the Sundance K    Paul Newman 
+retired_outlaw :  The Sundance K movie Butch Cassy and the Sundance K    Robert Redford 
+retired_outlaw :  Patrick Floyd 'Pat' Garrett movie Young Guns II    William Petersen 
+retired_outlaw :  Roy O'Bannon movie Shanghai Noon    Owen Wilson 
+revenge :  Inigo Montoya movie The Princess Bre    Mandy Patinkin 
+revenge :  Khan Noonien Singh movie Star Trek II: The Wrath of Khan    Ricardo Montalb\u00e1n 
+revenge :  Col. Douglas Mortimer movie For a Few Dollars More    Lee Van Cleef 
+revenge :  Leonard movie Memento    Guy Pearce 
+revenge :  Harmonica movie Once Upon a Time in the West    Charles Bronson 
+revenge :  Conan the Barbarian movie Conan the Destroyer    Arnold Schwarzenegger 
+romantic_runnerup :  Lon Hammond Jr. movie The Notebook    James Marsden 
+romantic_runnerup :  Prince Edward movie Enchanted    James Marsden 
+romantic_runnerup :  James Norrington movie Pirates of the Caribbean: At World's End    Jack Davenport 
+romantic_runnerup :  Julian Mercer movie Something's Gotta Give    Keanu Reeves 
+romantic_runnerup :  Michael Grates movie Reality Bites    Ben Stiller 
+romantic_runnerup :  Proteus movie Sinbad: Legend of the Seven Seas    Joseph Fiennes 
+self_made_man :  George Kittredge movie The Philadelphia Story    John Howard 
+self_made_man :  Roger Callaway movie It Takes Two   Steve Guttenberg 
+self_made_man :  Daniel \"Rudy\" Ruettiger movie Rudy    Sean Astin 
+slacker :  Brodie Bruce movie Mallrats    Jason Lee 
+slacker :  Dale Denton movie Pineapple Express    Seth Rogen 
+slacker :  Ben Stone movie Knocked Up   Seth Rogen 
+slacker :  Shaun movie Shaun of the Dead    Simon Pegg 
+slacker :  Kumar Patel movie Harold & Kumar Go to White Castle    Kal Penn 
+slacker :  Kumar Patel movie Harold & Kumar Escape from Guantanamo Bay    Kal Penn 
+slacker :  Romy White movie Romy and Michele's High School Reunion    Mira Sorvino 
+slacker :  Michele Weinberger movie Romy and Michele's High School Reunion    Lisa Kudrow 
+slacker :  John Winger movie Stripes    Bill Murray 
+slacker :  Dewey Finn movie School of Rock    Jack Black 
+slacker :  Aram Finklestein movie The Rebound    Justin Bartha 
+stoner :  Jay movie Dogma    Jason Mewes 
+stoner :  Bill S. Preston, Esq. movie Bill & Ted's Excellent Adventure    Alex Winter 
+stoner :  Ted \"Theodore\" Logan movie Bill & Ted's Excellent Adventure    Keanu Reeves 
+stoner :  Jeff Spicoli movie Fast Times at Rgemont High    Sean Penn 
+stoner :  Luke Shapiro movie The Wackness    Josh Peck 
+stoner :  Kumar Patel movie Harold & Kumar Go to White Castle    Kal Penn 
+stoner :  Harold Lee movie Harold & Kumar Go to White Castle    John Cho 
+stoner :  Dale Denton movie Pineapple Express    Seth Rogen 
+stoner :  Red movie Pineapple Express   Danny McBre 
+stoner :  Saul Silver movie Pineapple Express    James Franco 
+stoner :  Thadeous movie Your Highness   Danny McBre 
+stoner :  Fabious movie Your Highness   James Franco 
+stoner :  Marty Mikalski movie The Cabin in the Woods    Fran Kranz 
+storyteller :  Dilios movie 300   Dav Wenham 
+storyteller :  Ed Bloom - Young movie Big Fish    Ewan McGregor 
+storyteller :  Garth McCann movie Secondhand Lions    Michael Caine 
+storyteller :  Wendy Darling movie Peter Pan    Rachel Hurd-Wood 
+stup_crooks :  Sol movie Snatch    Lennie James 
+stup_crooks :  Vinny movie Snatch    Robbie Gee 
+stup_crooks :  Tyrone movie Snatch    Ade 
+stup_crooks :  Jerry Lundegaard movie Fargo    William H. Macy 
+stup_crooks :  Vincent Vega movie Pulp Fiction    John Travolta 
+surfer_dude :  Ted \"Theodore\" Logan movie Bill & Ted's Excellent Adventure    Keanu Reeves 
+surfer_dude :  Bill S. Preston, Esq. movie Bill & Ted's Excellent Adventure    Alex Winter 
+surfer_dude :  Jeff Spicoli movie Fast Times at Rgemont High    Sean Penn 
+surfer_dude :  Chicken Joe movie Surf's Up   Jon Heder 
+surfer_dude :  Geek movie Surf's Up   Jeff Brges 
+surfer_dude :  Stoney Brown movie Encino Man    Pauly Shore 
+surfer_dude :  Crawl movie Son in Law    Pauly Shore 
+surfer_dude :  Bud Macintosh movie Bio-Dome    Pauly Shore 
+surfer_dude :  Lance B. Johnson movie Apocalypse Now    Sam Bottoms 
+the_chief :  Dreyfus movie The Pink Panther    Kevin Kline 
+the_chief :  Lt. Andrew Bogomil movie Beverly Hills Cop    Ronny Cox 
+the_chief :  The Chief movie Dirty Harry    John Larch 
+the_editor :  Ben Bradlee movie All the Present's Men   Jason Robards 
+the_editor :  Walter Burns movie His Girl Fray    Cary Grant 
+tranquil_fury :  Eric Draven movie The Crow    Brandon Lee 
+tranquil_fury :  John Preston movie Equilibrium    Christian Bale 
+tranquil_fury :  Ethan Hunt movie Mission: Impossible    Tom Cruise 
+tranquil_fury :  Inigo Montoya movie The Princess Bre    Mandy Patinkin 
+tranquil_fury :  Dav Sumner movie Straw Dogs    Dustin Hoffman 
+tranquil_fury :  Max Cady movie Cape Fear    Robert De Niro 
+tranquil_fury :  Driver movie Drive    Ryan Gosling 
+trickster :  Han Solo movie Star Wars Episode V: The Empire Strikes Back    Harrison Ford 
+trickster :  Captain Jack Sparrow movie Pirates of the Caribbean: Dead Man's Chest    Johnny Depp 
+trickster :  Tyler Durden movie Fight Club    Brad Pitt 
+trickster :  Mr. Nick movie The Imaginarium of Dr. Parnassus    Tom Waits 
+trickster :  Loki movie Thor    Tom Hdleston 
+valley_girl :  Julie Richman movie Valley Girl    Deborah Foreman 
+valley_girl :  Cher Horowitz movie Clueless    Alicia Silverstone 
+valley_girl :  Romy White movie Romy and Michele's High School Reunion    Mira Sorvino 
+valley_girl :  Buffy Summers movie Buffy the Vampire Slayer    Kristy Swanson 
+valley_girl :  Elle Woods movie Legally Blonde   Reese Witherspoon 
+valley_girl :  Karen movie White Chicks    Busy Philipps 
+warrior_poet :  Katsumoto movie The Last Samurai    Ken Watanabe 
+warrior_poet :  Arthur Burns movie The Proposition    Danny Huston 
+warrior_poet :  Zohan movie You Don't Mess with the Zohan    Adam Sandler 
+warrior_poet :  Broken Sword movie Hero    Tony Leung Chiu Wai 
+warrior_poet :  Colonel Walter E. Kurtz movie Apocalypse Now    Marlon Brando 
+warrior_poet :  Master Li Mu Bai movie Crouching Tiger, Hden Dragon _  Chow Yun-Fat 
+warrior_poet :  Tool movie The Expendables    Mickey Rourke 
+warrior_poet :  T. E. Lawrence movie Lawrence of Arabia   Peter O'Toole 
+warrior_poet :  Horton the Elephant movie Horton Hears a Who!    Jim Carrey 
+young_gun :  Chico movie The Magnificent Seven    Horst Buchholz 
+young_gun :  Morgan Earp movie Tombstone    Bill Paxton 
+young_gun :  Colorado Ryan movie Rio Bravo    Ricky Nelson 
+young_gun :  Tom Sawyer movie The League of Extraordinary Gentlemen    Shane West 
+young_gun :  William H. 'Billy the K' Bonney movie Young Guns II    Emilio Estevez 
+young_gun :  Jake movie Silverado    Kevin Costner 
