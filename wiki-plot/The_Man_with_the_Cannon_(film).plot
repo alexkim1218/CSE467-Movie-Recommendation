@@ -1,0 +1,3 @@
+<h2><span class="mw-headline" id="Plot">Plot</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Man_with_the_Cannon_(film)&amp;action=edit&amp;section=1" title="Edit section: Plot">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Adaptation of the novel with the same title from Dritëro Agolli. Mato Gruda has been feuding with the old man Mere Fizi. Mato Gruda keeps a gun in a hidden place dreaming to use it against Fizies. He keeps an Italian as a prisoner at home, and calls him Agush. Agush became his teacher to use his war s tool. Hence, the secret of a peasant who joined the war out of necessity comes to light.
+</p>

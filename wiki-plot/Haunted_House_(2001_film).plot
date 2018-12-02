@@ -1,0 +1,3 @@
+<h2><span class="mw-headline" id="Plot">Plot</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Haunted_House_(film)&amp;action=edit&amp;section=1" title="Edit section: Plot">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>You see the world from the eyes of a black cat that walks around in a moonlit night. Later the cat enters an old spooky house. Everything looks perfectly normal. But wait, did those toys actually move?<sup id="cite_ref-4dmov_2-2" class="reference"><a href="#cite_note-4dmov-2">&#91;2&#93;</a></sup>
+</p>
