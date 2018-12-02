@@ -1,0 +1,5 @@
+<STEP 1>
+for i in *.plot; do echo $i; sudo sed "s/<[^>]*>//g" $1 < $i | sed 's/\[edit\]//g' > $i".clean"; done
+
+<STEP 2>
+for i in *.clean; do ~/udpipe/src/udpipe --tokenize --output=horizontal ~/ud-2.2-conll18-baseline/models/english-ewt-ud-2.2-conll18-180430.udpipe $i > $i".tok"; done
